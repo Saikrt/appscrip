@@ -1,0 +1,2 @@
+# appscrip
+Assignment on fastapi
